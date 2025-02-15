@@ -1,6 +1,6 @@
 {
 	"name": "flokosiol/viewmode",
-	"description": "Render a page in different view modes",
+	"description": "Kirby plugin to render a page in different view modes",
 	"version": "1.0.0",
 	"license": "MIT",
 	"type": "kirby-plugin",
