@@ -54,13 +54,9 @@ The dafault template for the page type should already exists next to it.
 site/templates/mypagetype.php
 ```
 
-#### Example
+Inside your view mode template you can add the template code you want to use for the page when it's rendered in this particular view mode – just like you do in a normale page tempalte or a snippet.
 
-Let's say you have a page type `article` and you want to use a view mode `teaser`. In this case you need to create a new file like this: 
-
-```
-site/templates/article.teaser.php
-```
+Like every other content representation you can make use of [controllers](https://getkirby.com/docs/guide/templates/content-representations#representation-controllers) to simplify your template code.
 
 ### 2. Using the view mode
 
@@ -69,7 +65,6 @@ To render a page in the declared view mode add this to your template code …
 ```php
 <?= $page->viewMode('myviewmode') ?>
 ```
-
 
 ### 3. Route Blocking (optional)
 
