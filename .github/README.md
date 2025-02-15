@@ -1,4 +1,4 @@
-# Kirby Viewmode
+# Kirby View Mode
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Kirby](https://img.shields.io/badge/Kirby-4+-f0c674.svg)
 
