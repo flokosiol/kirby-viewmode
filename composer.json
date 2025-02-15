@@ -1,0 +1,17 @@
+{
+	"name": "flokosiol/viewmode",
+	"description": "Render a page in different view modes",
+	"version": "1.0.0",
+	"license": "MIT",
+	"type": "kirby-plugin",
+	"authors": [
+		{
+			"name": "Flo Kosiol",
+			"email": "git@flokosiol.de"
+		}
+	],
+	"require": {
+		"getkirby/cms": "^4.0 || ^5.0",
+		"getkirby/composer-installer": "^1.1"
+	}
+}
