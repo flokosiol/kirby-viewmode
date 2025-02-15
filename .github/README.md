@@ -54,7 +54,7 @@ The dafault template for the page type should already exists next to it.
 site/templates/mypagetype.php
 ```
 
-Inside your view mode template you can add the template code you want to use for the page when it's rendered in this particular view mode – just like you do in a normale page tempalte or a snippet.
+Inside your view mode template you can add the template code you want to use for the page when it's rendered in this particular view mode – just like you do in a normale page template or a snippet.
 
 Like every other content representation you can make use of [controllers](https://getkirby.com/docs/guide/templates/content-representations#representation-controllers) to simplify your template code.
 
