@@ -14,6 +14,15 @@ Kirby::plugin('flokosiol/viewmode', [
 			return $html;
 		},
 	],
+	'fieldMethods' => [
+		'viewMode' => function ($field, $viewMode = '') {
+			$html = '';
+			if (!empty($viewMode) && $field->isNotEmpty()) {
+				return snippet('viewmode/fields/' . $viewMode, ['field' => $field], true);
+			}
+			return $html;
+		},
+	],
 	'routes' => function ($kirby) {
 		return [
 			[
