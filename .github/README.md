@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Kirby](https://img.shields.io/badge/Kirby-4+-f0c674.svg)
 
-With this plugin for [Kirby CMS](http://getkirby.com) you can display pages in different view modes. If you like to know mor eabout this consept please check out [this article on my website](https://flokosiol.de/articles/kirby-content-representations-custom-view-modes).
+With this plugin for [Kirby CMS](http://getkirby.com) you can display pages in different view modes. If you like to know mor eabout this concept please check out [this article on my website](https://flokosiol.de/articles/kirby-content-representations-custom-view-modes).
 
 ## ⚙️ Requirements
 
